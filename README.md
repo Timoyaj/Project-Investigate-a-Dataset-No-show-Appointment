@@ -5,7 +5,7 @@ This repository contains the code and analysis for the "Investigate a Dataset - 
 This project was completed as part of the ALX-Udacity Nano degree in Data Analytics.
 
 ## Data Source
-The data used for this project was manually downloaded and contains information on various attributes related to patient appointments at the clinic. The dataset was assessed for tidiness and quality issues, and necessary cleaning operations were performed using Python libraries such as NumPy and Pandas.
+The data used for this project was manually downloaded from My **Udacity workspace** and contains information on various attributes related to patient appointments at the clinic. The dataset was assessed for tidiness and quality issues, and necessary cleaning operations were performed using Python libraries such as NumPy and Pandas.
 
 ## Analysis and Visualization
 The analysis of the dataset was carried out using Python, with the help of libraries such as Seaborn and Matplotlib for data visualization. The following insights were discovered during the analysis:
