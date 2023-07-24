@@ -28,7 +28,6 @@ The repository is organized as follows:
 
 - **data/:** Contains the dataset used for analysis.
 - **notebooks/:** Includes Jupyter notebooks used for data cleaning, analysis, and visualization.
-- **images/:** Contains visualizations generated during the analysis.
 - **README.md:** The file you are currently reading, provides an overview of the project.
 ## Dependencies
 The analysis was performed using Python, and the following libraries were used:
